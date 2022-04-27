@@ -1,12 +1,11 @@
-### Hey, I'm Morph! 👋
+# Hey, I'm Morph! 👋
 
 ## I'm a Blockchain/Software Engineer
 - 💥 I build systems and websites for small/large businesses using Solidity, NodeJS, PHP.
 - ⚡ I'm open to collaborating on other Blockchain projects.
 - 🥅 2021 Goal: Contribute to more open-source projects.
 
-### Languages and Tools
-
+## Languages and Tools
 <img align="left" alt="Solidity" width="26px" src="https://docs.soliditylang.org/en/v0.4.24/_images/logo.svg" />
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
