@@ -3,7 +3,7 @@
 ## I'm a Blockchain/Software Engineer
 - 💥 I build systems and websites for small/large businesses using Solidity, NodeJS, PHP.
 - ⚡ I'm open to collaborating on other Blockchain projects.
-- 🥅 2021 Goal: Contribute to more open-source projects.
+- 🥅 2022 Goal: Contribute to more open-source projects.
 
 ## Languages and Tools
 <img align="left" alt="Solidity" width="26px" src="https://docs.soliditylang.org/en/v0.4.24/_images/logo.svg" />
