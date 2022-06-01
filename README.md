@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header-image.png)
 
 
 - 💥 I build systems and websites for small/large businesses using Solidity, NodeJS, PHP.
