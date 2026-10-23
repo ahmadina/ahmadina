@@ -1,6 +1,6 @@
 # Hey, I'm Ahmad 👋
 
-**Software Architect · AI Engineer · Founder · Open-Source Enthusiast**
+**Software Architect · AI Engineer · Open-Source Enthusiast**
 
 15+ years of building software, designing scalable systems, and turning complex ideas into real-world products.
 
