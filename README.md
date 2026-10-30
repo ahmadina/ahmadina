@@ -8,7 +8,7 @@ I'm passionate about AI-native development, systems programming, distributed arc
 
 I enjoy challenging conventional approaches, exploring ideas from first principles, and building tools that push software engineering forward.
 
-**Currently exploring:** Rust, Go, AI-native programming languages, runtimes, and open-source developer platforms.
+**Currently exploring:** Rust, AI-native programming languages, runtimes, and open-source developer platforms.
 
 ---
 
